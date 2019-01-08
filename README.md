@@ -1,0 +1,2 @@
+# Using-perceptron-to-train-data-in-Casino
+first step: define dealer and players' original method on blackjack, simulating 100 data; second: building a perceptron model: x1=sum(players' cards' number) x2=dealer's first card number y=-1/1 (1 stands for win) using this data to make a perceptron third: using this hyperplane to decide whether to hit a card or not; fourth: using the above method to find the winning rate
